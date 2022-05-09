@@ -1,4 +1,4 @@
-# FRFS(Flood Risk Forecast System)-작업중
+# FRFS(Flood Risk Forecast System)
 
 * [**행정구역 홍수위험전망시스템**](http://210.92.123.198:8080/golden1a/index_v2020.html?lensfile_kst=2016-10-03%2009:00:00.000)
 * 참여연구기관 : 한국건설기술연구원, 아주대, 인하대, 경북대, (주)헤르메시스   
